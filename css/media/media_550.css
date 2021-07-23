@@ -1,0 +1,24 @@
+@media screen and (min-width: 200px) and (max-width: 550px) {
+  .wrapper {
+    width: 400px;
+  }
+  .menu {
+    display: block;
+    right: 0;
+  }
+  .logo_img {
+    margin-left: 0px;
+  }
+  .text-questions_text3,
+  .wrapper-text-questions_text2,
+  .wrapper-text-questions_text1 {
+    display: none;
+  }
+  .btn {
+    width: 370px;
+  }
+  .btn span {
+    font-size: 36px;
+    letter-spacing: 7px;
+  }
+}

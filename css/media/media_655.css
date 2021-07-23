@@ -1,0 +1,30 @@
+@media screen and (min-width: 200px) and (max-width: 655px) {
+  .wrapper {
+    width: 500px;
+  }
+  .logo_img {
+    margin-left: -24px;
+  }
+  .wrapper-text-questions_text1 {
+    margin-left: -600px;
+  }
+  .wrapper-text-questions_text2 {
+    margin-left: 463px;
+  }
+  .circle {
+    width: 294px;
+    height: 294px;
+  }
+  .btn {
+    width: 450px;
+    top: 350px;
+  }
+  .emblem {
+    top: 500px;
+    margin-left: 200px;
+  }
+  .point {
+    margin-top: 550px;
+    margin-left: 200px;
+  }
+}

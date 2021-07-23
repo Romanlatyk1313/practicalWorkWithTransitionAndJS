@@ -1,0 +1,11 @@
+@media screen and (min-width: 200px) and (max-width: 1440px) {
+  .wrapper {
+    width: 1400px;
+  }
+  .text-questions_text1 {
+    left: 19px;
+  }
+  .text-questions_text2 {
+    left: 1350px;
+  }
+}

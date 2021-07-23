@@ -1,0 +1,26 @@
+@media screen and (min-width: 200px) and (max-width: 915px) {
+  .wrapper {
+    width: 700px;
+  }
+  .circle {
+    top: 240px;
+  }
+  .wrapper-text-questions_text1 {
+    margin-left: -807px;
+  }
+  .wrapper-text-questions_text2 {
+    margin-left: 663px;
+  }
+  .text-questions_text3 {
+    top: 793px;
+  }
+  .btn {
+    width: 650px;
+  }
+  .emblem {
+    top: 550px;
+  }
+  .point {
+    margin-top: 604px;
+  }
+}

@@ -1,0 +1,52 @@
+@media screen and (min-width: 200px) and (max-width: 1200px) {
+  .wrapper {
+    width: 1000px;
+  }
+  .logo_img {
+    margin-left: 0;
+  }
+  .logo-text {
+    font-size: 24px;
+  }
+  .text-questions_text1,
+  .text-questions_text2,
+  .text-questions_text3 {
+    font-size: 14px;
+  }
+  .wrapper-text-questions_text2,
+  .wrapper-text-questions_text1 {
+    display: flex;
+    position: absolute;
+    width: 10px;
+    margin-top: 380px;
+    justify-content: flex-start;
+  }
+  .wrapper-text-questions_text1 {
+    margin-left: -1057px;
+  }
+  .wrapper-text-questions_text2 {
+    margin-left: 913px;
+  }
+  .text-questions_text3 {
+    top: 743px;
+  }
+  .circle {
+    width: 482px;
+    height: 482px;
+  }
+  .btn {
+    width: 780px;
+    top: 330px;
+  }
+  .btn span {
+    font-size: 58px;
+  }
+  .emblem {
+    top: 500px;
+    margin-left: 330px;
+  }
+  .point {
+    margin-top: 554px;
+    margin-left: 327px;
+  }
+}

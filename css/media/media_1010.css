@@ -1,0 +1,11 @@
+@media screen and (min-width: 200px) and (max-width: 1010px) {
+  .wrapper {
+    width: 900px;
+  }
+  .wrapper-text-questions_text1 {
+    margin-left: -957px;
+  }
+  .wrapper-text-questions_text2 {
+    margin-left: 813px;
+  }
+}

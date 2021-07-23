@@ -1,0 +1,11 @@
+@media screen and (min-width: 200px) and (max-width: 400px) {
+  .menu {
+    right: 0px;
+  }
+  .logo_img {
+    margin-left: 0px;
+  }
+  .btn span {
+    letter-spacing: 3px;
+  }
+}

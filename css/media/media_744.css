@@ -1,0 +1,11 @@
+@media screen and (min-width: 200px) and (max-width: 744px) {
+  .wrapper-text-questions_text1 {
+    margin-left: -700px;
+  }
+  .wrapper-text-questions_text2 {
+    margin-left: 563px;
+  }
+  .btn span {
+    font-size: 36px;
+  }
+}

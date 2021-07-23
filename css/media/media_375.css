@@ -1,0 +1,29 @@
+@media screen and (min-width: 200px) and (max-width: 375px) {
+  .logo-text {
+    font-size: 18px;
+  }
+  .menu {
+    right: 0px;
+  }
+  .logo_img {
+    margin-left: 0px;
+  }
+  .circle {
+    top: 191px;
+  }
+  .btn {
+    top: 280px;
+  }
+  .btn span {
+    letter-spacing: 3px;
+    font-size: 34px;
+  }
+  .emblem {
+    top: 414px;
+    margin-left: 140px;
+  }
+  .point {
+    margin-top: 455px;
+    margin-left: 140px;
+  }
+}

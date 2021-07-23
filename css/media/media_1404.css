@@ -1,0 +1,26 @@
+@media screen and (min-width: 200px) and (max-width: 1404px) {
+  .wrapper {
+    width: 1200px;
+  }
+  .text-questions_text1,
+  .text-questions_text2 {
+    position: relative;
+    left: inherit;
+    top: 0;
+  }
+  .wrapper-text-questions_text2,
+  .wrapper-text-questions_text1 {
+    display: flex;
+    position: absolute;
+  }
+  .wrapper-text-questions_text1 {
+    justify-content: flex-start;
+    margin-top: 420px;
+    margin-left: -1080px;
+  }
+  .wrapper-text-questions_text2 {
+    justify-content: flex-end;
+    margin-top: 420px;
+    margin-left: 1080px;
+  }
+}

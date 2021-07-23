@@ -1,0 +1,39 @@
+@media screen and (min-width: 200px) and (max-width: 768px) {
+  .wrapper {
+    width: 600px;
+  }
+  .logo_img {
+    margin-left: -69px;
+    margin-top: 18px;
+  }
+  .logo-text {
+    margin: 24px auto 0;
+  }
+  .circle {
+    top: 271px;
+  }
+  .wrapper-text-questions_text1 {
+    margin-left: -800px;
+  }
+  .wrapper-text-questions_text2 {
+    margin-left: 663px;
+  }
+  .wrapper-text-questions_text2,
+  .wrapper-text-questions_text1 {
+    margin-top: 500px;
+  }
+  .text-questions_text3 {
+    top: 992px;
+  }
+  .btn {
+    top: 420px;
+  }
+  .emblem {
+    top: 645px;
+    margin-left: 300px;
+  }
+  .point {
+    margin-top: 696px;
+    margin-left: 300px;
+  }
+}
